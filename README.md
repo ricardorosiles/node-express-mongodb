@@ -1,5 +1,5 @@
 # Backend MERN - Calendar
 
-Backend que creamos en mi curso de React: de cero a experto
+Backend que se creo en un curso de React: de cero a experto
 
-fernando-herrera.com
+Ricardo Rosiles
